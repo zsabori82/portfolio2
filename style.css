@@ -287,9 +287,11 @@ form input, form textarea{
     width: 100%;
     border: 0;
     outline: none;
-    background:  15px 0;
+    background:#262626;
+     Padding: 15px;
+     margin: 15px 0;
     color: #fff;
-    font-size: 15px;
+    font-size: 18px;
     border-radius: 6px;
 }
 form .btn2{
@@ -302,9 +304,9 @@ form .btn2{
     width: 100%;
     text-align: center;
     padding: 25px 0;
-}background: #262626;
-font-weight: 300;
-margin-top: 20px;
+    background: #262626;
+    font-weight: 300;
+    margin-top: 20px;
 }
 .copyright i{
     color: #ff004f;
